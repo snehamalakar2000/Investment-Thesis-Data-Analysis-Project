@@ -15,3 +15,7 @@ c. Upsell
 d. Downsell
 - Created functions and filtered data in Python to determine percentage contribution of each customer type to the annual growth rate.
 - This analysis helped the private equity firm determine whether Info Prints claims on increasing the value of customers through upsell opportunities were true or not. 
+
+Technology used: Jupyter Notebook 
+Languages: Python
+Libraries: Pandas, NumPy, and Seaborn
